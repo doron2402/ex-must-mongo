@@ -1,0 +1,24 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "True Construction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/ex-must-mongo.git"
+  },
+  "author": "Doron Segal <doron2402@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/ex-must-mongo/issues"
+  },
+  "homepage": "https://github.com/doron2402/ex-must-mongo",
+  "dependencies": {
+    "cookie-parser": "^1.3.4",
+    "express": "^4.11.2",
+    "mustachex": "0.0.3"
+  }
+}
